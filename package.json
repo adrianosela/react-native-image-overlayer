@@ -1,0 +1,18 @@
+{
+  "name": "react-native-image-overlayer",
+  "description": "Superpose two images on top of each other with the same dimensions",
+  "main": "ImageOverlayer.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adrianosela/react-native-image-overlayer.git"
+  },
+  "keywords": [
+    "image",
+    "react",
+    "react native",
+    "image overlay",
+    "imagebackground"
+  ]
+  }
+}
